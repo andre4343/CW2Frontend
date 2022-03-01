@@ -1,23 +1,23 @@
 .nav_view{
-    background-color:#098123;
+    background-color:#e43408;
 }
 .nav_view h3{
     color:#ffffff;
 }
 
 input[type=text]:focus {
-    background-color:#000000;
-    border: 3px solid #045021 !important;
+    background-color:#14bcf0;
+    border: 3px solid #e43408 !important;
     text-decoration: none !important;
     outline-width: 0;
 }
 .search_form{
-    color: #3b3d3c ;
+    color: #e41fc3f5 ;
     width: 100%;
     padding: 15px 20px;
     box-sizing: border-box;
     border-radius: 15px;
-    background-color:#d1d1d1;
+    background-color:#15d34e;
     text-align: center;
     border: 3px solid rgb(0, 0, 0);
     align-content: center;
@@ -32,7 +32,7 @@ input[type=text]:focus {
         padding-bottom: 40px;
         padding-top: 15px;
         margin-right: 25px;
-        background-color: #3fcf6a;
+        background-color: #e43408;
         display: flex;
         position: absolute;
         right: 15%;
@@ -48,7 +48,7 @@ input[type=text]:focus {
         padding-bottom: 40px;
         padding-top: 15px;
         margin-right: 25px;
-        background-color: #1bb977;
+        background-color: #e43408;
         display: flex;
         position: absol;
         left: 60%;
