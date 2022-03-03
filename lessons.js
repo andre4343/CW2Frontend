@@ -32,7 +32,7 @@ let lessonsArray = [
     {
         id: 4,
         title: "English" ,
-        location: "Ilford" ,
+        location: "Hackney" ,
         price: 95,
         availablespace: 10,
         image: "image/English.png",
@@ -42,7 +42,7 @@ let lessonsArray = [
     {
         id: 5,
         title: "Arts" ,
-        location: "Harrow" ,
+        location: "Brent" ,
         price: 80,
         availablespace: 10,
         image: "image/arts.png",
@@ -52,7 +52,7 @@ let lessonsArray = [
     {
         id: 6,
         title: "Musics" ,
-        location: "Harrow" ,
+        location: "Jamaica" ,
         price: 75,
         availablespace: 12,
         image: "image/Musics.png",
@@ -62,7 +62,7 @@ let lessonsArray = [
     {
         id: 7,
         title: "IT" ,
-        location: "Harrow" ,
+        location: "Stratford" ,
         price: 85,
         availablespace: 11,
         image: "image/IT.png",
@@ -72,7 +72,7 @@ let lessonsArray = [
         {
             id: 8,
         title: "history" ,
-        location: "Harrow" ,
+        location: "Islington" ,
         price: 90,
         availablespace: 7,
         image: "image/History.png",
@@ -81,7 +81,7 @@ let lessonsArray = [
         {
             id: 9,
         title: "Geography" ,
-        location: "Harrow" ,
+        location: "Tottenham" ,
         price: 60,
         availablespace: 5,
         image: "image/Geography.png",
@@ -91,7 +91,7 @@ let lessonsArray = [
         {
             id: 10,
         title: "Physics" ,
-        location: "Harrow" ,
+        location: "Arsenal" ,
         price: 70,
         availablespace: 5,
         image: "image/Physics.png",
@@ -101,7 +101,7 @@ let lessonsArray = [
     {
         id: 11,
         title: "Drama" ,
-        location: "Harrow" ,
+        location: "Leeds" ,
         price: 105,
         availablespace: 2,
         image: "image/drama.png",
@@ -111,7 +111,7 @@ let lessonsArray = [
     {
     id: 12,
         title: "Calligraphy" ,
-        location: "Harrow" ,
+        location: "Kent" ,
         price: 55,
         availablespace: 5,
         image: "image/calligraphy.png",
