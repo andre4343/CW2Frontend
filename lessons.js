@@ -4,7 +4,7 @@ let lessonsArray = [
         id: 1,
                             title: "Math" ,
                             location: "London" ,
-                            price: 100,
+                            price: 10,
                             availablespace: 10,
                             image: "image/math.png",
                     imageWidth: 200, 
